@@ -1,0 +1,34 @@
+{
+  "hotbird": [
+    {
+      "channel name": "BBC Persian HD",
+      "Frequence": 12322,
+      "Pol": "H",
+      "SR": 27500,
+      "FEC": "3/4"
+    },
+    {
+      "channel name": "Iran International",
+      "Frequence": 11137,
+      "Pol": "H",
+      "SR": 27500,
+      "FEC": "3/4"
+    }
+  ],
+  "Badr 8": [
+    {
+      "channel name": "MBC 2",
+      "Frequence": 12284,
+      "Pol": "V",
+      "SR": 27500,
+      "FEC": "3/4"
+    },
+    {
+      "channel name": "Dubai Sports 2 HD",
+      "Frequence": 12130,
+      "Pol": "V",
+      "SR": 30000,
+      "FEC": "3/4"
+    }
+  ]
+}
